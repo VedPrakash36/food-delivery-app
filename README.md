@@ -1,5 +1,5 @@
 # Food Delivery App
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7778ad14-3ce4-4d11-a6ce-9386fd544828" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7778ad14-3ce4-4d11-a6ce-9386fd544828" />
 
 A full-stack food delivery application built with React, Node.js, Express, and MongoDB. Features user authentication, food ordering, cart management, payment integration with Stripe, and an admin panel for managing orders and food items.
 
